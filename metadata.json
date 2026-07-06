@@ -1,0 +1,6 @@
+{
+  "name": "সহজ নোটপ্যাড",
+  "description": "একটি সুন্দর এবং সহজ নোটপ্যাড অ্যাপ্লিকেশন আপনার প্রতিদিনের নোটগুলো সংরক্ষণের জন্য",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
